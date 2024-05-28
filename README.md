@@ -12,6 +12,7 @@ Not supposed to actually do anything.
       A-->C;
       B-->D;
       C-->D;
+      D-->A: reset;
 ```
 
 Text text text text.
