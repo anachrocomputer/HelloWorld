@@ -33,9 +33,9 @@ stateDiagram-v2
 stateDiagram-v2
     [*] --> Idle
 
-    Idle --> Busy
+    Idle --> Busy: enter
     Busy --> Busy
-    Busy --> Idle
+    Busy --> Idle: exit
  ```
  
  Text text text text.
