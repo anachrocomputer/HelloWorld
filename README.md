@@ -29,5 +29,17 @@ stateDiagram-v2
  
  Text text text text.
  
+ ```mermaid
+stateDiagram-v2
+    [*] --> Idle
+
+    Idle --> Busy
+    Busy --> Busy
+    Busy --> Idle
+ ```
+ 
+ Text text text text.
+ 
+ 
  
 
