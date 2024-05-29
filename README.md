@@ -4,6 +4,14 @@ A dummy repository on GitHub for testing.
 
 Not supposed to actually do anything.
 
+## Badges ##
+
+![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
+
+![Static Badge](https://img.shields.io/badge/MCU-PIC32-green)
+
+![Static Badge](https://img.shields.io/badge/CPU-MC68000-blue)
+
 ## Mermaid ##
 
 ```mermaid
