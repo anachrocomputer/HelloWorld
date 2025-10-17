@@ -10,12 +10,11 @@ edge: [
   'a~b'
 ],
 head:{
-   text: "6502 Bus",
-   tick: 0,
-   every: 2
+   text: "6502 Bus"
  },
  foot:{
-   tock:1
+   tock:1,
+   every: 2
  },
 config: { hscale: 2 }
 }
