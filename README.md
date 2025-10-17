@@ -53,6 +53,6 @@ stateDiagram-v2
  
 Example waveform using WaveDrom:
 
-![6502 timing diagram](https://svg.wavedrom.com/github/anachrocomputer/HelloWorld/develop/timing.json5))
+![6502 timing diagram](https://svg.wavedrom.com/github/anachrocomputer/HelloWorld/develop/timing.json5)
 
 End of waveform example.
