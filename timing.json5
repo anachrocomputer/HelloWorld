@@ -1,0 +1,21 @@
+{ signal : [
+  { name: "phi2", wave: "N..|." },
+  { name: "r/w",  wave: "x1x|." },
+  { name: "A",    wave: "x2x|." },
+  { name: "/CS",  wave: "101|." },
+  { name: "D",    wave: "x3x|.", data: ["ch"], node: "..a.." },
+  { name: "/IRQ", wave: "1..|0", node: "....b" },
+],
+edge: [
+  'a~b'
+],
+head:{
+   text: "6502 Bus",
+   tick: 0,
+   every: 2
+ },
+ foot:{
+   tock:1
+ },
+config: { hscale: 2 }
+}

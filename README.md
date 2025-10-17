@@ -49,6 +49,10 @@ stateDiagram-v2
  
  Text text text text.
  
+## WaveDrom ##
  
- 
+Example waveform using WaveDrom:
 
+![6502 timing diagram](https://svg.wavedrom.com/github/anachrocomputer/HelloWorld/main/timing.json5))
+
+End of waveform example.
